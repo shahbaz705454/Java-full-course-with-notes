@@ -10,7 +10,7 @@ public class SH_04_literals {
         float f1=2.4f;
         double d1=4.55D;
         boolean areyouready=true;
-        System.out.println(age);
+        System.out.println(age)
 
         String str="This is the code for shahbaz";
         System.out.println(str);
