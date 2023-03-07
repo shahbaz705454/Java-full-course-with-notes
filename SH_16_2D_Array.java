@@ -104,7 +104,7 @@ public class SH_16_2D_Array {
                 System.out.print(matrix[row][left] + " ");
             }
             left++;
-
+ 
 
             System.out.println();
             hellow
