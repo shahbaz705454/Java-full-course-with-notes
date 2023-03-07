@@ -4,7 +4,7 @@ public class SH_04_literals {
     public static void main(String[] args) {
         byte age1=2;
         int age=20;
-        short age3=399;
+       
         long agedino=20034000;
         char ch='A';
         float f1=2.4f;
