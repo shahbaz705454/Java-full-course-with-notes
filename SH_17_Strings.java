@@ -1,6 +1,6 @@
 package com.company;
 
-public class SH_strings {
+public class SH_17_Strings {
     public static void main(String[] args) {
         String name ="This is me shahbaz   ";
 // ------------------------------------------------------------------------------------------------------------------------------------
