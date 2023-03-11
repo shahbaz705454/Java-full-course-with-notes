@@ -53,19 +53,79 @@ public class SH_15_2_Excersise_Array {
 
 
 
-//        PROBLEM 2  // Calculate average of all student contain the marks in physics
-     float[] physics = new float[5];
-
-        for (float element : physics){
-            element = sc.nextFloat();
-        }
-        float sum =0;
-
-        for (float element : physics){
-            sum =sum+ element;
-        }
-        System.out.println(sum/physics.length);
+//        PROBLEM 3  // Calculate average of all student contain the marks in physics
+//     float[] physics = new float[5];
 //
+//        for (float element : physics){
+//            element = sc.nextFloat();
+//        }
+//        float sum =0;
+//
+//        for (float element : physics){
+//            sum =sum+ element;
+//        }
+//        System.out.println(sum/physics.length);
+
+
+
+
+//        PROBLEM 4  // Calculate sum of two 2d array elements;
+
+//        int [][] mat1 ={{1,2,3},
+//                       {4,5,6}};
+//
+//    int [][] mat2 ={{1,2,3},
+//                    {4,5,6}};
+//
+//    int [][] result ={{0,0,0},
+//                      {0,0,0}};
+//
+//
+//    for (int i=0; i<mat1.length;i++){
+//        for (int j=0; j<mat1[i].length;j++){
+//            result[i][j]= mat1[i][j] + mat2[i][j];
+//
+//        }
+//    }
+//        for (int i=0; i<mat1.length;i++){
+//            for (int j=0; j<mat1[i].length;j++){
+//                System.out.print(result[i][j]+ " ");
+//
+//            }
+//            System.out.println(" ");
+//        }
+
+
+
+        //        PROBLEM 4  // make a program to reverse an array
+
+
+        int [] number ={1,2,3,4,5,6,7,8,9};
+        int n = number.length;
+        int l = Math.floorDiv(n,2);
+        int temp;
+
+        for (int i=0; i<l; i++){
+            temp = number[i];
+            number[i]= number[n-i-1];
+            number[n-i-1]=temp;
+
+        }
+
+        for (int element : number) {
+            System.out.print(element + " ");
+
+        }
+
+
+
+
+
+
+
+
+
+
 
 
 
