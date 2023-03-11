@@ -100,22 +100,70 @@ public class SH_15_2_Excersise_Array {
         //        PROBLEM 4  // make a program to reverse an array
 
 
-        int [] number ={1,2,3,4,5,6,7,8,9};
-        int n = number.length;
-        int l = Math.floorDiv(n,2);
-        int temp;
+//        int [] number ={1,2,3,4,5,6,7,8,9};
+//        int n = number.length;
+//        int l = Math.floorDiv(n,2);
+//        int temp;
+//
+//        for (int i=0; i<l; i++){
+//            temp = number[i];
+//            number[i]= number[n-i-1];
+//            number[n-i-1]=temp;
+//
+//        }
+//
+//        for (int element : number) {
+//            System.out.print(element + " ");
+//
+//        }
 
-        for (int i=0; i<l; i++){
-            temp = number[i];
-            number[i]= number[n-i-1];
-            number[n-i-1]=temp;
 
-        }
+        //        PROBLEM 4  // make a program to find the maximum number element in the array
 
-        for (int element : number) {
-            System.out.print(element + " ");
+//            int[] number = {1,2,3,4,5,6,7,8,9,10};
+//            int n=0;
+//
+//            for (int element :number){
+//                if (element>n){
+//                    n=element;
+//                }
+//            }
+//        System.out.println(n);
 
-        }
+
+        //        PROBLEM 4  // make a program to find the minimum number element in the array
+
+//            int[] number = {1,2,3,4,5,6,7,8,9,10};
+//            int n= 214748364;
+//
+//            for (int element :number){
+//                if (element<n){
+//                    n=element;
+//                }
+//            }
+//        System.out.println(n);
+
+
+
+
+        //        PROBLEM 4  // make a program to whether the array is sorted or not
+//
+//            int[] number = {1,2,3,4,5,9,6};
+//            boolean sorted = true;
+//            for (int i =0; i<number.length-1; i++){
+//                if (number[i]>number[i+1]){
+//                    sorted = false;
+//                    break;
+//                }
+//            }
+//            if (sorted){
+//                System.out.println("Array is sorted");
+//
+//            }else {
+//                System.out.println("Array is not sorted");
+//            }
+
+
 
 
 
