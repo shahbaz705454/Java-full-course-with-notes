@@ -19,7 +19,7 @@ class myemployee{
    }
 }
 
-public class Sh_40_Acess_modifier {
+public class SH_40_Acess_modifier {
     public static void main(String[] args) {
 
         myemployee shahbaz =new myemployee();

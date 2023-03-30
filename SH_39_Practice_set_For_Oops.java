@@ -79,7 +79,7 @@ class vicecity{
 
 
 
-public class Sh_39_Practice_set_For_Oops {
+public class SH_39_Practice_set_For_Oops {
     public static void main(String[] args) {
 
 

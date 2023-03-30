@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Sh_35_Method_Problems {
+public class SH_35_Method_Problems {
 
 //    QUESTION 1 ==> write a programme to print table of n numbers
 //    public static void Table (int a,int n){

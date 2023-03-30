@@ -24,7 +24,7 @@ class myemployee2 {
 
 
 
-public class Sh_42_Constructor {
+public class SH_42_Constructor {
     public static void main(String[] args) {
 
         myemployee2 shahbaz =new myemployee2("shahbaz",2);

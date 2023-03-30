@@ -16,7 +16,7 @@ class employee{
     }
 }
 
-public class Sh_38_Custom_class {
+public class SH_38_Custom_class {
     public static void main(String[] args) {
 
 

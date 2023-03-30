@@ -1,6 +1,6 @@
 package com.company;
 
-public class Sh_34_Recursion {
+public class SH_34_Recursion {
 //  How to find factorial of a number using recursion
 //    static int factorial(int n){
 //       if (n==1 || n==0){

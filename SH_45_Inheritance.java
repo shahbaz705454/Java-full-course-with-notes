@@ -37,7 +37,7 @@ class Derived extends Base{
     }
 }
 
-public class Sh_45_Inheritance {
+public class SH_45_Inheritance {
     public static void main(String[]args){
 //        what is inheritance ?
 //        ==>inheritance is a feature of object-oriented programming that allows a new class to be based on an existing class,
