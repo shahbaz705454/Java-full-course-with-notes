@@ -33,6 +33,7 @@ public class SH_47_This_And_Super_Keyword {
     public static void main(String[] args) {
 //        EkClass e = new EkClass(5);
         DoClass d = new DoClass(8);
+        DoClass e =new DoClass(5);
 
     }
 }
